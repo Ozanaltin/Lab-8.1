@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e6998d4ce74b4668b07a5937d14898a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6d8d6bb4521add94dd4bc78c7538d715\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2e8a089491072d83cc0291b0da139b42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1c61474aed8352c5b1579f3131013e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e45f0aa12d3a3611c7d3d572e9ca8173\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8abd6bf5529ff6f39f69102495201d5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a7984b39e2ebf5c6c54d7a20d8056aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7e355a341c6901f5026f0123815f4b9f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82d5bf0c7b1bbfd7d017b1df25b4e1e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2cc937b8dcfb8ab2d4ad18921ec39564\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8eb4f6eb65d91f56ffa501b0dbfbb091\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb489e6f267f09f0d4b3c80f76ca8441\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+	package
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:21:5-43
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:20:11-69
+application
+ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:23:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6d8d6bb4521add94dd4bc78c7538d715\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6d8d6bb4521add94dd4bc78c7538d715\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.android.example.notifyme.MainActivity
+ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:30:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e6998d4ce74b4668b07a5937d14898a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e6998d4ce74b4668b07a5937d14898a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6d8d6bb4521add94dd4bc78c7538d715\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6d8d6bb4521add94dd4bc78c7538d715\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2e8a089491072d83cc0291b0da139b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2e8a089491072d83cc0291b0da139b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1c61474aed8352c5b1579f3131013e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1c61474aed8352c5b1579f3131013e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e45f0aa12d3a3611c7d3d572e9ca8173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e45f0aa12d3a3611c7d3d572e9ca8173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8abd6bf5529ff6f39f69102495201d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8abd6bf5529ff6f39f69102495201d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a7984b39e2ebf5c6c54d7a20d8056aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a7984b39e2ebf5c6c54d7a20d8056aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7e355a341c6901f5026f0123815f4b9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7e355a341c6901f5026f0123815f4b9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82d5bf0c7b1bbfd7d017b1df25b4e1e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\82d5bf0c7b1bbfd7d017b1df25b4e1e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2cc937b8dcfb8ab2d4ad18921ec39564\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2cc937b8dcfb8ab2d4ad18921ec39564\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8eb4f6eb65d91f56ffa501b0dbfbb091\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8eb4f6eb65d91f56ffa501b0dbfbb091\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb489e6f267f09f0d4b3c80f76ca8441\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\altin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cb489e6f267f09f0d4b3c80f76ca8441\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Project\NotifyMe\app\src\main\AndroidManifest.xml
